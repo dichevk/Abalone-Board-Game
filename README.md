@@ -3,3 +3,4 @@ Abalone is a two-player abstract board game. Every player has a set of marbles a
 
 This is a local implementation in Java that has a simple client-server communication which allows a number of players to play the game on a local machine. 
 
+The implementation follows the MVC principle where Game represents the Controller, View is the Board and Pieces is the Model
